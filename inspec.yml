@@ -1,0 +1,8 @@
+name: inspec-cve
+title: InSpec Profile
+maintainer: Chef SA Team
+copyright: Chef SA Team
+copyright_email: andre@chef.io
+license: Apache-2.0
+summary: An InSpec Compliance Profile
+version: 0.1.0
